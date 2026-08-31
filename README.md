@@ -21,6 +21,8 @@ A Python-based Student Management System built using **Streamlit** and **SQLite*
 - Streamlit
 - SQLite
 - Pandas
+- Git
+- Github 
 
 ## Project Structure
 
